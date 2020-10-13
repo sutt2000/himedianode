@@ -1,0 +1,25 @@
+{
+  "name": "01.hello",
+  "version": "1.0.0",
+  "description": "- (http://nodejs.org)[노드 사이트]\r ## 3.git 설치\r  - [git-scm.com](http://git-scm.com)\r  ##4. github 가입\r  ##5. 본인의 컴퓨터에 git 사용자 등록",
+  "main": "index.js",
+  "dependencies": {
+    "experss": "0.0.1-security",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutt2000/himedianode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sutt2000/himedianode/issues"
+  },
+  "homepage": "https://github.com/sutt2000/himedianode#readme"
+}

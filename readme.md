@@ -11,7 +11,7 @@
 
  ```bash
 
-  git config --global user.email 'sutt2000'
+  git config --global user.name 'sutt2000'
   
   git config --global user.email 'sutt2000@naver.com'
 
