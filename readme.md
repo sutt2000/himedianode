@@ -10,9 +10,11 @@
  - cmd창을 열고
 
  ```bash
- 
+
   git config --global user.email 'sutt2000'
   
   git config --global user.email 'sutt2000@naver.com'
 
 ```
+
+
